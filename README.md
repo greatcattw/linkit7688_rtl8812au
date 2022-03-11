@@ -37,5 +37,5 @@ bridge=br-lan
 
 hostapd -d -B /etc/hostapd.conf &
 
-# PC Wifi find a AP named greatcat7
-# PC login AP and get IP 192.168.1.x
+#PC Wifi find a AP named greatcat7
+#PC login AP and get IP 192.168.1.x
