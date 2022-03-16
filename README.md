@@ -4,7 +4,7 @@ Note :
 	It needs to adjust 2 of Makefile.
 
 WiFi dongle:
-	rtl8812au
+	rtl8812au 0bda:8812
 
 Openwrt Linux :
 	5.4.154
