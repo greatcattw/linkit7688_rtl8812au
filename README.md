@@ -1,4 +1,4 @@
-# openwrt_rtl8812au
+# linkit7688_rtl8812au
 ## Note : 
 	Extracted from openwrt BSP. For studying package build.
 	It needs to adjust 2 of Makefile.
